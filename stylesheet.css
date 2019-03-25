@@ -1,0 +1,28 @@
+		body {
+				@import url('https://fonts.googlrapis.com/css?family=Montserrat');
+				font-family: 'Montserrat', sans-serif;
+				color: pink;
+				background-color: #5aaed4;
+				border: 10px solid orange;
+				padding: 5px 5px 5px 5px;
+				margin: 2%;
+				list-style-type: circle;
+				} 
+				a:hover
+				 {	
+				color:#5aaed4;
+				background-color: pink;
+				}
+				a
+				 {
+				 color:pink;
+				 }
+				 img
+				    {
+				 	height: 300px;
+				 	width: 450px;
+				 	}
+				  th
+				    {
+					background-color: yellow;
+					}
